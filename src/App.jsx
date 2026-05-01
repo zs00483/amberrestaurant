@@ -15,7 +15,7 @@ export default function AmberRestaurant() {
 
   const [pageTransition, setPageTransition] = useState('fade-in');
   const [searchQuery, setSearchQuery] = useState('');
-  const restaurantPhone = '919876543210';
+  const restaurantPhone = '919892214148';
 
   // Load dark mode preference from localStorage
   useEffect(() => {
