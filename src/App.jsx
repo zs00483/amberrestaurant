@@ -39,10 +39,10 @@ export default function AmberRestaurant() {
   };
 
   const heroImages = [
-    '/public/hero/hero1.avif',
-    '/public/hero/hero2.avif',
-    '/public/hero/hero3.avif',
-    '/public/hero/hero4.avif',
+    '/hero/hero1.avif',
+    '/hero/hero2.avif',
+    '/hero/hero3.avif',
+    '/hero/hero4.avif',
   ];
 
   // Use imported menu data
